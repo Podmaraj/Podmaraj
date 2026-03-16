@@ -1,66 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Podmaraj%20Boruah&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Podmaraj%20Boruah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Hi, I'm Podmaraj Boruah
+<h1 align="center">Hi 👋 I'm Podmaraj Boruah</h1>
 
-🚀 **Full Stack Developer | AI Systems Builder**
-
-Focused on building **scalable web applications, modern backend systems, and AI-powered platforms.**
-Interested in **AI agents, RAG architectures, and production-grade SaaS infrastructure.**
-
----
-
-## ⚡ Core Skills
-
-* Full Stack Development
-* Backend System Design
-* REST API Development
-* AI Agent Architecture
-* RAG (Retrieval Augmented Generation) Systems
-* Scalable SaaS Infrastructure
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+AI+Systems;Backend+Architecture+Enthusiast;Code.+Learn.+Build.;Turning+Ideas+into+Real+Software" />
+</p>
 
 ---
 
-## 🧠 Programming Languages
+# 🚀 About Me
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+💻 Full Stack Developer focused on building **scalable applications and intelligent systems**.
 
----
+⚡ Passionate about **backend engineering, modern web technologies, and AI-driven platforms**.
 
-## 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+🧠 I enjoy designing **efficient APIs, scalable architectures, and production-ready systems**.
 
 ---
 
-## ⚙️ Backend Development
+# ⚡ Core Skills
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />
-
----
-
-## 🗄️ Databases & ORM
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-Prisma ORM
+✔ Full Stack Development
+✔ Backend System Architecture
+✔ REST API Development
+✔ AI Agent Architecture
+✔ Retrieval Augmented Generation (RAG)
+✔ Scalable SaaS Infrastructure
 
 ---
 
-## 🤖 AI / LLM Stack
+# 🧠 Programming Languages
 
-* LangChain
-* LangGraph
-* Retrieval Augmented Generation (RAG)
-* AI Agents
-* Vector Databases
-* Prompt Engineering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+</p>
 
 ---
 
-## 🛠 Tools & DevOps
+# 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
 
 ---
 
-⚡ *Building scalable systems and exploring modern AI technologies.*
+# ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark" />
+</p>
+
+---
+
+# 🗄️ Databases & ORM
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" />
+</p>
+
+---
+
+# 🤖 AI / LLM Stack
+
+<p align="center">
+
+LangChain • LangGraph • Retrieval Augmented Generation (RAG)
+AI Agents • Vector Databases • Prompt Engineering
+
+</p>
+
+---
+
+# 🛠 Tools & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+
+⚡ <b>Building scalable systems and exploring modern AI technologies.</b>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
