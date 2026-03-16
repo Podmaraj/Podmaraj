@@ -139,21 +139,6 @@ My interests include **AI agents, RAG pipelines, and production-ready SaaS syste
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 🔗 Connect
-
-* GitHub: https://github.com/YOUR_USERNAME
-
----
 
 ⚡ *Always building, learning, and exploring modern technologies.*
 
