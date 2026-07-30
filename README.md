@@ -4,68 +4,34 @@
 
 <h1 align="center">Hi 👋, I'm Podmaraj Boruah</h1>
 
-<h3 align="center">
-Full Stack Developer | Backend Engineer
-</h3>
+<p align="center">
+Backend Engineer • Full Stack Developer
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Backend+Engineering;Distributed+Systems;AI+Applications;Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Building+Scalable+Software;Backend+Engineering;Distributed+Systems;AI+Applications"/>
 </p>
 
 ---
 
 ## About Me
 
-I enjoy building scalable applications, backend systems, and AI-powered software with a strong focus on clean architecture and performance.
+I'm a software developer focused on building scalable backend systems, full-stack applications, and AI-powered solutions.
 
-Currently working on production-ready applications involving distributed systems, modern backend technologies, and intelligent automation.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,java,cpp"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,githubactions"/>
-</p>
+My interests include backend architecture, distributed systems, system design, and building production-ready software.
 
 ---
 
-## Areas of Interest
+## Technologies
 
-- Backend Engineering
-- System Design
-- Distributed Systems
-- Microservices
-- REST APIs
-- AI Applications
-- RAG
-- Performance Optimization
+| Category | Stack |
+|----------|-------|
+| **Languages** | Go • Python • TypeScript • JavaScript • Java • C++ |
+| **Frontend** | React • Next.js • Tailwind CSS |
+| **Backend** | Node.js • NestJS • FastAPI • Express |
+| **Databases** | PostgreSQL • MongoDB • MySQL • Redis |
+| **DevOps** | Docker • Kubernetes • Git • GitHub Actions • Linux |
+| **AI** | LangChain • LangGraph • Hugging Face • TensorFlow • PyTorch |
 
 ---
 
@@ -78,41 +44,50 @@ Currently working on production-ready applications involving distributed systems
 
 ---
 
-## GitHub Stats
+## Areas of Interest
+
+- Backend Engineering
+- System Design
+- Distributed Systems
+- Microservices
+- REST APIs
+- AI Applications
+- Performance Optimization
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Podmaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Podmaraj&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podmaraj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Podmaraj&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## Connect
 
-<p>
+<p align="left">
+
 <a href="https://github.com/Podmaraj">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<!-- Replace with your LinkedIn -->
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<!-- Replace with your email -->
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-
-**Building software that is scalable, maintainable, and production ready.**
-
+<i>"Build software that solves real problems."</i>
 </p>
 
 <p align="center">
