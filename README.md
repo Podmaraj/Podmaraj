@@ -1,89 +1,157 @@
+```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Podmaraj%20Boruah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <h1 align="center">Hi 👋 I'm Podmaraj Boruah</h1>
 
+<h3 align="center">
+Full Stack Developer • Backend Engineer 
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+AI+Systems;Backend+Architecture;Code.+Learn.+Build.;Turning+Ideas+into+Real+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineering;Distributed+Systems;Cloud+Native+Applications;AI+Powered+Software;Building+Production+Ready+Systems" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Podmaraj">
+<img src="https://img.shields.io/github/followers/Podmaraj?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💻 About Me
 
-💻 Full Stack Developer focused on building **scalable applications and intelligent systems**.
+I build scalable web applications, backend services, AI-powered solutions, and cloud-native systems.
 
-⚡ Passionate about **backend engineering, modern web technologies, and AI-driven platforms**.
-
-🧠 I enjoy designing **efficient APIs, scalable architectures, and production-ready systems**.
+My work focuses on designing maintainable software, distributed architectures, and production-ready applications using modern technologies.
 
 ---
 
-# ⚡ Core Skills
+# 🚀 Areas of Expertise
 
-✔ Full Stack Development
-✔ Backend System Architecture
-✔ REST API Development
-✔ AI Agent Architecture
-✔ Retrieval Augmented Generation (RAG)
-✔ Scalable SaaS Infrastructure
+- Full Stack Development
+- Backend Engineering
+- Microservices Architecture
+- REST APIs
+- Distributed Systems
+- Cloud Native Applications
+- AI Applications
+- Retrieval-Augmented Generation (RAG)
+- API Gateway Architecture
+- System Design
 
 ---
 
-# 🧠 Programming Languages
+# 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,java,cpp&theme=dark"/>
 </p>
 
 ---
 
-# 🌐 Frontend Development
+# 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
 </p>
 
 ---
 
-# ⚙️ Backend Development
+# ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&theme=dark"/>
 </p>
 
 ---
 
-# 🗄️ Databases & ORM
+# 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark"/>
 </p>
 
 ---
 
-# 🤖 AI / LLM Stack
+# ☁️ Cloud & DevOps
 
 <p align="center">
-
-LangChain • LangGraph • Retrieval Augmented Generation (RAG)
-AI Agents • Vector Databases • Prompt Engineering
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,vscode&theme=dark"/>
 </p>
 
 ---
 
-# 🛠 Tools & DevOps
+# 🤖 AI Stack
+
+- Generative AI
+- LangChain
+- LangGraph
+- Hugging Face
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- AI Agents
+- Prompt Engineering
+- Vector Databases
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# ⚡ Backend & Infrastructure
+
+- Go
+- NestJS
+- FastAPI
+- Node.js
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker
+- Kubernetes
+- REST APIs
+- WebSockets
+- gRPC
+- OAuth2
+- JWT Authentication
+- CI/CD
+- GitHub Actions
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Podmaraj&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Podmaraj&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podmaraj&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Current Projects
+
+- Enterprise Hospital Management System
+- Carbon Credit Management Platform
+- Production-Grade API Gateway (Go)
+- AI Applications
+- Distributed Backend Systems
 
 ---
 
 <p align="center">
 
-⚡ <b>Building scalable systems and exploring modern AI technologies.</b>
+### Code • Build • Scale
+
+Building reliable software and production-ready systems.
 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+```
