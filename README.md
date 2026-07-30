@@ -1,30 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Podmaraj%20Boruah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Podmaraj%20Boruah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Podmaraj Boruah</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Engineer • Cloud Native Developer
+Full Stack Developer | Backend Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Backend+Engineering;Full+Stack+Development;Cloud+Native+Applications;Distributed+Systems;AI+Applications;Building+Production+Ready+Software"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Backend+Engineering;Distributed+Systems;AI+Applications;Always+Building"/>
 </p>
 
 ---
 
-## 💻 About Me
+## About Me
 
-- 🚀 Building scalable backend systems and modern web applications
-- ⚙️ Designing REST APIs and microservices
-- ☁️ Working with cloud-native technologies and distributed systems
-- 🤖 Developing AI-powered applications and RAG solutions
-- 📦 Building production-ready software using modern development practices
+I enjoy building scalable applications, backend systems, and AI-powered software with a strong focus on clean architecture and performance.
+
+Currently working on production-ready applications involving distributed systems, modern backend technologies, and intelligent automation.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -35,122 +33,88 @@ Full Stack Developer • Backend Engineer • Cloud Native Developer
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express"/>
 </p>
 
-### Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma"/>
 </p>
 
-### DevOps & Cloud
+### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,githubactions"/>
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
-
-- Generative AI
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Hugging Face
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Prompt Engineering
-
----
-
-## ⚡ Backend & Infrastructure
-
-- REST APIs
-- Microservices
-- API Gateway
-- JWT Authentication
-- OAuth2
-- WebSockets
-- gRPC
-- Redis
-- RabbitMQ
-- Docker
-- Kubernetes
-- CI/CD
-- GitHub Actions
-- PostgreSQL
-- Distributed Systems
-
----
-
-## 📌 Current Projects
-
-- 🏥 Enterprise Hospital Management System
-- 🌱 Carbon Credit Management Platform
-- 🚪 Production Grade API Gateway (Go)
-- 🤖 AI Applications
-- ☁️ Cloud Native Backend Systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Podmaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Podmaraj&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podmaraj&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Podmaraj&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes,linux"/>
-</p>
-
----
-
-## 🎯 Focus Areas
+## Areas of Interest
 
 - Backend Engineering
-- Distributed Systems
-- Cloud Native Applications
-- AI Applications
-- API Design
-- Microservices
 - System Design
-- Scalable Software Architecture
+- Distributed Systems
+- Microservices
+- REST APIs
+- AI Applications
+- RAG
+- Performance Optimization
+
+---
+
+## Current Projects
+
+- 🏥 Enterprise Hospital Management System
+- 🌱 Carbon Credit Platform
+- 🚀 Atlas Gateway (Go)
+- 🤖 AI Applications
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Podmaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Podmaraj&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podmaraj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+<p>
+<a href="https://github.com/Podmaraj">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
 
-### Code • Build • Scale
+**Building software that is scalable, maintainable, and production ready.**
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,100:0f2027"/>
 </p>
